@@ -4,7 +4,8 @@
 [CCC-Shop static demo website](https://lohsuan.github.io/ccc-shop/)
 
 This is a brief [static demo website](https://lohsuan.github.io/ccc-shop/) with fake information for E-commerce system [CCC-Shop](https://github.com/CCC-Shop) presentation. \
-However, this is a project with backend for correct system status. \
+You can login with any `username` and `password` without sign up for more experience. \
+However, this is a project with backend for correct CRUD operations. \
 For whole features, please refer to [CCC-Shop](https://github.com/CCC-Shop) or watch it on our [demo videos](https://www.youtube.com/playlist?list=PLuIs3VbIw0SmLry-_GpOQhUIGmaYZIKfI).
 
 ## Operations we have
