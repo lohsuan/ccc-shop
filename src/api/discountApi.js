@@ -5,7 +5,7 @@ export const getCurrentSpecialDiscount = async function () {
     try {
         // const response = await axios.get("/api/special_discount/get-current");
         // return response.data;
-        return defaultSpeatialDiscount;
+        return fakeSpeatialDiscount;
     } catch (err) {
         console.log(err);
     }
@@ -15,7 +15,7 @@ export const getCurrentShippingDiscount = async function () {
     try {
         // const response = await axios.get("/api/shipping_discount/get-current");
         // return response.data;
-        return defaultShippingDiscount;
+        return fakeShippingDiscount;
     } catch (err) {
         console.log(err);
     }
@@ -25,7 +25,7 @@ export const getCurrentSeasoningsDiscount = async function () {
     try {
         // const response = await axios.get("/api/seasonings_discount/get-current");
         // return response.data;
-        return defaultSeasoningDiscount;
+        return fakeSeasoningDiscount;
     } catch (err) {
         console.log(err);
     }
@@ -183,7 +183,7 @@ export const editSpecialDiscount = async function (discountCode, venderId, polic
 }
 
 
-let defaultSpeatialDiscount = {
+let fakeSpeatialDiscount = {
     "message": "Success!",
     "specialDiscountList": [
       {
@@ -213,7 +213,7 @@ let defaultSpeatialDiscount = {
     ]
   }
 
-  let defaultShippingDiscount = {
+  let fakeShippingDiscount = {
     "message": "Success!",
     "shippingDiscountList": [
       {
@@ -230,7 +230,7 @@ let defaultSpeatialDiscount = {
     ]
   }
 
-  let defaultSeasoningDiscount = {
+  let fakeSeasoningDiscount = {
     "message": "Success!",
     "seasoningsDiscountList": [
       {

@@ -17,7 +17,7 @@ export const getAllProducts = async function () {
   try {
     // const response = await axios.get("/api/product/get-all");
     // return response.data;
-    return defaultProducts;
+    return fakeProducts;
   } catch (err) {
     console.log(err);
   }
@@ -78,7 +78,7 @@ export const updateProduct = async function (name, venderId, category, price, st
   }
 };
 
-let defaultProducts = {
+let fakeProducts = {
   "message": "Success!",
   "productList": [
     {

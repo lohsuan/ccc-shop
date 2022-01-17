@@ -9,8 +9,8 @@ For whole features, please refer to [CCC-Shop](https://github.com/CCC-Shop) or w
 
 ## Operational concepts
 
-<img src="https://i.imgur.com/jCGdWbP.png" width="30%">
-<img src="https://i.imgur.com/U4YyXW1.png" width="30%">
+<img src="https://i.imgur.com/jCGdWbP.png" width="60%">
+<img src="https://i.imgur.com/U4YyXW1.png" width="60%">
 
 ## Demo video for different scenario
 
