@@ -10,7 +10,7 @@ export const loginUser = async function (username, password) {
     "id": 5,
     "username": username,
     "password": password,
-    "identity": "CUSTOMER",
+    "identity": "ADMIN",
     "phone": "0943214321",
     "email": "superman@gmail.com",
     "creditCard": "2222333-4444555",

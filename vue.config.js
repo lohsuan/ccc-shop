@@ -9,3 +9,5 @@ module.exports = {
     ? '/ccc-shop/'
     : '/'
 }
+
+// https://cli.vuejs.org/zh/guide/deployment.html#github-pages
