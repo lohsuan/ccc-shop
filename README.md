@@ -1,13 +1,13 @@
 # CCC-Shop static website 
 <img src="https://i.imgur.com/RMupxMP.png" width="30%">
 
-[CCC-Shop github pages](https://lohsuan.github.io/ccc-shop/)
+[CCC-Shop static demo website](https://lohsuan.github.io/ccc-shop/)
 
-This is a brief static website demo for E-commerce system [CCC-Shop](https://github.com/CCC-Shop). \
+This is a brief [static demo website](https://lohsuan.github.io/ccc-shop/) with fake information for E-commerce system [CCC-Shop](https://github.com/CCC-Shop) presentation. \
 However, this is a project with backend for correct system status. \
 For whole features, please refer to [CCC-Shop](https://github.com/CCC-Shop) or watch it on our [demo videos](https://www.youtube.com/playlist?list=PLuIs3VbIw0SmLry-_GpOQhUIGmaYZIKfI).
 
-## Operational concepts
+## Operations we have
 
 <img src="https://i.imgur.com/jCGdWbP.png" width="60%">
 <img src="https://i.imgur.com/U4YyXW1.png" width="60%">
